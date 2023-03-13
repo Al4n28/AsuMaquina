@@ -1,0 +1,4 @@
+W -> Matriz
+X -> Matriz
+B -> vector Columna
+D, A, Z -> Matriz
